@@ -1,0 +1,6 @@
+{
+    "config": {
+        "description": "Good night, good luck",
+        "on_exit": "close"
+    }
+}
